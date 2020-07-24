@@ -1,2 +1,1 @@
-These are the basic tensorflow models using keras api for practice purpose.Both the models are using single neurone to predict the label.These models are trained upto 500 epochs 
-with standerd gradient descent optimizer.
+These are the basic tensorflow models using keras api for practice purpose.Both the models are using single neurone to estimate the label.Univariate Linear Regression model has a 1D numpy array as a feature and has been trained upto 500 epochs with standerd gradient descent optimizer.Where Multivariate Linear Regression model has a 2D numpy array as a feature and has been trained upto 500 epochs with RMSprop optimizer.
